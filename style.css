@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 205, 56);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.blok{
+    background-color: rgba(255, 166, 0, 0.518);
+    width: 850px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    gap: 57px;
+    justify-content: center;
+    
+}
+h2{
+    background-color: rgba(5, 5, 5, 0.9);
+    width: 221px;
+    height: 235px;
+    border-radius: 9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 90px;
+    font-family: inter;
+}
+
